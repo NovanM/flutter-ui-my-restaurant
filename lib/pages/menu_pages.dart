@@ -54,7 +54,7 @@ class _MenuPageState extends State<MenuPage> {
                 ClipRRect(
                   borderRadius:
                       BorderRadius.vertical(bottom: Radius.circular(20)),
-                  child: Image.asset('assets/images/bg.jpg'),
+                  child: Image.asset('assets/images/bg.jpeg'),
                 ),
                 SafeArea(
                   child: Row(
@@ -194,19 +194,19 @@ class _MenuPageState extends State<MenuPage> {
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: [
                   menuBox(
-                    menuImg: 'assets/images/splash_pic.jpg',
+                    menuImg: 'assets/images/splash_pic.jpeg',
                     menuName: 'Hamburger Steak',
                     menuPrice: '110',
                   ),
                   Column(
                     children: [
                       menuBox(
-                        menuImg: 'assets/images/Food4.jpg',
+                        menuImg: 'assets/images/Food4.jpeg',
                         menuName: 'Salad Spring rolls',
                         menuPrice: '110',
                       ),
                       menuBox(
-                          menuImg: 'assets/images/Drink2.jpg',
+                          menuImg: 'assets/images/Drink2.jpeg',
                           menuName: 'Strawberry Milk',
                           menuPrice: '110'),
                     ],

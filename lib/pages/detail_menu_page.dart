@@ -146,19 +146,19 @@ class DetailMenu extends StatelessWidget {
                                   width: 20,
                                 ),
                                 MenuPopulerDetail(
-                                  imageUrl: 'assets/images/Food3.jpg',
+                                  imageUrl: 'assets/images/Food3.jpeg',
                                   name: 'Soup egg',
                                 ),
                                 MenuPopulerDetail(
-                                  imageUrl: 'assets/images/Cake1.jpg',
+                                  imageUrl: 'assets/images/Cake1.jpeg',
                                   name: 'Cake Creamy Brownies',
                                 ),
                                 MenuPopulerDetail(
-                                  imageUrl: 'assets/images/Deserts1.jpg',
+                                  imageUrl: 'assets/images/Deserts1.jpeg',
                                   name: 'Donuts Wafers',
                                 ),
                                 MenuPopulerDetail(
-                                  imageUrl: 'assets/images/Drink1.jpg',
+                                  imageUrl: 'assets/images/Drink1.jpeg',
                                   name: 'Orange with Strawberry',
                                 ),
                               ],
